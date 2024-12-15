@@ -1,3 +1,5 @@
+Hello from sonarqube :)
+
 Simple projects that reads data of a .dat file
 
 - input a|b|c@gmail.com => html table with 4 columns
